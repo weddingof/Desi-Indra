@@ -1,0 +1,18 @@
+/* peru color style*/
+
+.cover1 h2:hover{
+    color: black;
+    background: #e0ba47;
+    border: 2px solid peru;
+}
+.cover1 h2:visited{
+    color: black;
+    background: #e0ba47;
+    border: 2px solid peru;
+}
+.fa-pause{
+    color: peru;
+}
+.fa-play{
+    color: peru;
+}
